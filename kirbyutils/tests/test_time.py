@@ -1,5 +1,5 @@
 from unittest import TestCase
-from kirbyutilspy import Time, TimeUnit
+from kirbyutils import Time, TimeUnit
 
 
 class TestTime(TestCase):
